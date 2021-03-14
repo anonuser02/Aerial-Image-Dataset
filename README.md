@@ -15,7 +15,9 @@ We show an example of landmark distribution in folder `example`.
 Each image contains a different individual, and is given a unique name (`%05dA%02d.jpg`), illustrating the individual’s serial number and specific age.
 Individuals from serial number 00000 to 07380 are all female, from 07381 to 13321 are male.
 
-![Example](https://github.com/anonuser02/AerialImageDataset/blob/main/out.gif)
+<p align="center">
+  <img width="600" height="200" src="https://github.com/anonuser02/AerialImageDataset/blob/main/out.gif" alt="animated">
+</p>
 
 This dataset can be used for age prediction and gender classification. 
 For fair comparison, we randomly split the images into two sets, one for trainning and the other for validation.
