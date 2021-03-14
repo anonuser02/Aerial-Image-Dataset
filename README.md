@@ -1,5 +1,5 @@
 # Trujillo Aerial Image Dataset
-![Alt Text](https://github.com/JingchunCheng/All-Age-Faces-Dataset/blob/master/illu_AAF.png) 
+![Alt Text](https://github.com/anonuser02/AerialImageDataset/blob/main/sample.png) 
 
 Download link (baidu): https://pan.baidu.com/s/1WtHQsb73rLa-cZpBLi2dtg <br />
 Download link (dropbox): https://www.dropbox.com/s/a0lj1ddd54ns8qy/All-Age-Faces%20Dataset.zip?dl=0
