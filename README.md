@@ -1,4 +1,4 @@
-# Trujillo Aerial Image Dataset
+# Aerial Image Dataset
 ![Alt Text](https://github.com/anonuser02/AerialImageDataset/blob/main/sample.png) 
 
 Download link (baidu): https://pan.baidu.com/s/1WtHQsb73rLa-cZpBLi2dtg <br />
