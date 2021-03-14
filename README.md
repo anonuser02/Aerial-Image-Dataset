@@ -16,7 +16,7 @@ Each image contains a different individual, and is given a unique name (`%05dA%0
 Individuals from serial number 00000 to 07380 are all female, from 07381 to 13321 are male.
 
 <p align="center">
-  <img width="720" height="480" src="https://github.com/anonuser02/AerialImageDataset/blob/main/out.gif" alt="animated">
+  <img width="540" height="360" src="https://github.com/anonuser02/AerialImageDataset/blob/main/out.gif" alt="animated">
 </p>
 
 This dataset can be used for age prediction and gender classification. 
